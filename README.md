@@ -1,8 +1,7 @@
 # Hey, I’m Jeslin Jerome! 👋  
-*Turning caffeine into code.*
 
 🌟 **What I Do**: Web Developer | Software Engineer | Gamer 
-🔧 **Skills**: Python | HTML | JavaScript  
+🔧 **Skills**: [Python | HTML | JavaScript]
 📫 **Say Hi**: [jeslinjerome@gmail.com](mailto:jeslinjerome@gmail.com)  
 
 ![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/jeslinjerome)
@@ -11,4 +10,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeslinjerome&layout=compact&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jeslinjerome&theme=juicyfresh&no-frame=true)
+![Coding Vibes](https://media.giphy.com/media/13HgwGsXFp4x9K/giphy.gif)
