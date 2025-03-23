@@ -28,6 +28,10 @@ Check out my repos 👉 [GitHub Profile](https://github.com/jeslinjerome)
 ![Jeslin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeslinjerome&show_icons=true&theme=radical)  
 ![Jeslin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeslinjerome&layout=compact&theme=radical)  
 
+
+🐍 Watch my contribution graph get eaten by a snake!  
+![Snake Animation](https://github.com/jeslinjerome/jeslinjerome/blob/output/github-contribution-grid-snake.svg)  
+
 ---
 
 ### 📫 Connect with Me  
